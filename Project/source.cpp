@@ -1,72 +1,94 @@
 #include <iostream>
 
-int packet = 1;
+using namespace std;
 
-void Swap(int parameterX, int parameterY)
+namespace Client
 {
-	int swap;
+	int port = 1557;
 
-	std::cout << "Swap 전 : X :" << parameterX << " Y : " << parameterY << std::endl;
-
-	swap = parameterX;
-	parameterX = parameterY;
-	parameterY = swap;
-
-	std::cout << "Swap 후 : X :" << parameterX << " Y : " << parameterY << std::endl;
+	void Send()
+	{
+		std::cout << "the client sends data..." << std::endl;
+	}
 }
+
+namespace Server
+{
+	int port = 1885;
+
+	void Send()
+	{
+		std::cout << "the server sends data..." << std::endl;
+	}
+}
+
+class GameObject
+{
+#pragma region 접근 지정자
+	// 클래스 내부에 포함되어 있는 속성에 접근 범위를
+	// 제한하는 지정자입니다.
+
+	// public : 클래스 내부와 자기가 상속하고 있는 클래스 그리고
+	//			클래스 외부에서도 접근을 허용하는 지정자입니다.
+
+	// protected : 클래스 내부와 자기가 상속하고 있는 클래스까지만
+	//			   접근을 허용하는 지정자입니다.
+
+	// private : 클래스 내부까지만 접근을 허용하는 지정자입니다.
+#pragma endregion
+
+private:
+	int x;
+	int y;
+	int z;
+protected:
+	const char* name;
+public:
+	void Initialize()
+	{
+		x = 0;
+		y = 0;
+		z = 0;
+	}
+};
+
+void Attack()
+{
+	cout << "Attacking" << endl;
+}
+
+void Die()
+{
+	cout << "Character Died" << endl;
+}
+
+using namespace Client;
 
 int main()
 {
+#pragma region 이름 공간
+	// 속성을 구분할 수 있도록 유효 범위를
+	// 설정하는 영역입니다.
 
-#pragma region 스트림
-	// 시간의 흐름에 따라 연속적으로 발생하는 데이터의 흐름입니다.
-
-	// using namespace std;
-	// 
-	// int count = 0;
-	// 
-	// cout << "Hello World!\n";
-	// 
-	// cin >> count;
-	// 
-	// for (int i = 0; i < count; i++)
-	// {
-	// 	cout << "Play Station " << i + 1 << endl;
-	// }
-
-	// 스트림은 운영 체제에 의해 생성되며, 스트림 자체에 버퍼라는
-
+	// Send();
+	// Server::Send();
 
 #pragma endregion
 
-#pragma region 범위 지정 연산자
-	// 여러 범위에서 사용되는 식별자를 구분하는데
-	// 사용하는 연산자입니다.
+#pragma region 클래스
+	// 사용자 정의 데이터 유형으로 속성과 함수가 포함되어
+	// 있으며, 클래스를 통해 객체를 생성하여 접근하고 사용
+	// 하는 집합체입니다.
 
-	// using namespace std;
-	// 
-	// int packet = 100;
-	// 
-	// cout << "packet 변수의 값 : " << packet << endl;
-	// cout << "packet 전역 변수의 값 : " << ::packet << endl;
+	GameObject gameObject;
 
-	// 범위 지정 연산자는 전역 변수와 같은 이름의 지역 변수가
-	// 선언되었을 때 가장 가까운 범위에 선언된 변수의 이름을
-	// 사용하는 범위 규칙이 존재하기 때문에 전역 변수가 호출되지 않습니다.
-#pragma endregion
+	gameObject.Initialize();
 
-#pragma region 참조자
-	// 하나의 변수에 또 다른 이름을 지정하는 지정자입니다.
+	cout << "Game Object of Size : " << sizeof(GameObject) << endl;
 
-	using namespace std;
-
-	int x, y;
-
-	cin >> x;
-
-	cin >> y;
-
-	Swap(x, y);
+	// 클래스의 경우 클래스 내부에 있는 변수는 클래스의
+	// 메모리 영역에 포함되지만, 정적 변수와 함수의 메모리는
+	// 클래스 영역에 포함되지 않습니다.
 #pragma endregion
 
 
