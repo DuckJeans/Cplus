@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75FEE92B-E567-40E1-B625-1D6A69845614}|..\\Class 1th (Stream)\\Class 1th (Stream).vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Class 1th (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 1th (Stream)\\source.cpp",
-              "RelativeDocumentMoniker": "..\\Class 1th (Stream)\\source.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Class 1th (Stream)\\source.cpp",
-              "RelativeToolTip": "..\\Class 1th (Stream)\\source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-14T09:39:57.248Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +24,7 @@
               "RelativeDocumentMoniker": "source.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
               "RelativeToolTip": "source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-13T09:15:14.294Z",
               "EditorCaption": ""
