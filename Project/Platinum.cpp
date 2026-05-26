@@ -20,3 +20,8 @@ void Platinum::Promote()
 	cout << "Eternals Capsule" << endl;
 	cout << "Platinum Boader\n" << endl;
 }
+
+Platinum::~Platinum()
+{
+	cout << "Release a Platinum" << endl;
+}

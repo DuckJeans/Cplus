@@ -20,3 +20,8 @@ void Emerald::Promote()
 	cout << "Eternals Capsule" << endl;
 	cout << "Emerald Boader\n" << endl;
 }
+
+Emerald::~Emerald()
+{
+	cout << "Release a Emerald" << endl;
+}

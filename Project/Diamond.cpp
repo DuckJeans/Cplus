@@ -20,3 +20,8 @@ void Diamond::Promote()
 	cout << "Eternals Capsule" << endl;
 	cout << "Diamond Boader\n" << endl;
 }
+
+Diamond::~Diamond()
+{
+	cout << "Release a Diamond" << endl;
+}

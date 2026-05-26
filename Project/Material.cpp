@@ -12,3 +12,8 @@ void Material::Promote()
 {
 	cout << "the material had been enhanced" << endl;
 }
+
+Material::~Material()
+{
+	cout << "Release a Material\n" << endl;
+}
