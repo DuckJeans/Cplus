@@ -7,7 +7,7 @@ private:
 public:
 	Item();
 
-	virtual ~Item() {}
-
 	virtual void Use() = 0;
+
+	virtual ~Item();
 };

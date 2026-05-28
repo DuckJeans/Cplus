@@ -7,3 +7,8 @@ Item::Item()
 
 	cout << "Name : " << name << endl;
 }
+
+Item::~Item()
+{
+	cout << "Release a Item" << endl;
+}

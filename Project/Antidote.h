@@ -6,5 +6,7 @@ class Antidote : public Item
 {
 public:
 	virtual void Use() override;
+
+	virtual ~Antidote();
 };
 

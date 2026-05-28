@@ -1,2 +1,30 @@
-﻿  source.cpp
-  Project.vcxproj -> C:\Users\User\Desktop\Cplus\Project\x64\Debug\Project.exe
+﻿  Position.cpp
+C:\Users\User\Desktop\Cplus\Project\Position.cpp(32,1): error C4716: 'Position::operator*': 값을 반환해야 합니다.
+C:\Users\User\Desktop\Cplus\Project\Position.cpp(20,1): error C4716: 'Position::operator-': 값을 반환해야 합니다.
+C:\Users\User\Desktop\Cplus\Project\Position.cpp(26,1): error C4716: 'Position::operator/': 값을 반환해야 합니다.
+C:\Users\User\Desktop\Cplus\Project\Position.cpp(14,1): error C4716: 'Position::operator+': 값을 반환해야 합니다.
+  source.cpp
+C:\Users\User\Desktop\Cplus\Project\source.cpp(14,11): error C2374: 'direction': 재정의. 여러 번 초기화했습니다.
+      C:\Users\User\Desktop\Cplus\Project\source.cpp(13,11):
+      'direction' 선언을 참조하십시오.
+  
+C:\Users\User\Desktop\Cplus\Project\source.cpp(14,11): error C2086: 'Position direction': 재정의
+      C:\Users\User\Desktop\Cplus\Project\source.cpp(13,11):
+      'direction' 선언을 참조하십시오.
+  
+C:\Users\User\Desktop\Cplus\Project\source.cpp(15,11): error C2374: 'direction': 재정의. 여러 번 초기화했습니다.
+      C:\Users\User\Desktop\Cplus\Project\source.cpp(13,11):
+      'direction' 선언을 참조하십시오.
+  
+C:\Users\User\Desktop\Cplus\Project\source.cpp(15,11): error C2086: 'Position direction': 재정의
+      C:\Users\User\Desktop\Cplus\Project\source.cpp(13,11):
+      'direction' 선언을 참조하십시오.
+  
+C:\Users\User\Desktop\Cplus\Project\source.cpp(16,11): error C2374: 'direction': 재정의. 여러 번 초기화했습니다.
+      C:\Users\User\Desktop\Cplus\Project\source.cpp(13,11):
+      'direction' 선언을 참조하십시오.
+  
+C:\Users\User\Desktop\Cplus\Project\source.cpp(16,11): error C2086: 'Position direction': 재정의
+      C:\Users\User\Desktop\Cplus\Project\source.cpp(13,11):
+      'direction' 선언을 참조하십시오.
+  
