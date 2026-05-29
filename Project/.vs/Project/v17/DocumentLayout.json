@@ -3,16 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Cplus\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\Factorial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:Factorial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66E46-293F-4AE0-B922-2137990D96D1}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0B66E46-293F-4AE0-B922-2137990D96D1}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66E46-293F-4AE0-B922-2137990D96D1}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Class7th (Encapsulation)\\Class7th (Encapsulation).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD79D86-4D87-4571-ADD9-E9B513AFBC2C}|..\\Class 5th (Polymorphism)\\Class 5th (Polymorphism).vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Class 5th (Polymorphism)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,9 +52,6 @@
       "AbsoluteMoniker": "D:0:0:{BAF52092-B499-4B17-BF31-A0B3C75B672F}|..\\Class 6th (Abstract)\\Class 6th (Abstract).vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Class 6th (Abstract)\\Class 6th (Abstract).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DD79D86-4D87-4571-ADD9-E9B513AFBC2C}|..\\Class 5th (Polymorphism)\\Class 5th (Polymorphism).vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Class 5th (Polymorphism)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38EC9516-0455-48C2-BFE1-5D00430AAB4E}|..\\Class 4th\\Class 4th.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Class 4th\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -62,37 +65,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Factorial.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Factorial.h",
+              "RelativeDocumentMoniker": "Factorial.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Factorial.h",
+              "RelativeToolTip": "Factorial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-29T10:37:47.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Position.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.cpp",
               "RelativeDocumentMoniker": "Position.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.cpp",
               "RelativeToolTip": "Position.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-28T10:01:32.653Z",
+              "WhenOpened": "2026-05-29T10:03:22.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class7th (Encapsulation).cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class7th (Encapsulation)\\Class7th (Encapsulation).cpp",
+              "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Class7th (Encapsulation).cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Class7th (Encapsulation)\\Class7th (Encapsulation).cpp",
+              "RelativeToolTip": "..\\Class7th (Encapsulation)\\Class7th (Encapsulation).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T10:02:30.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
+              "RelativeDocumentMoniker": "source.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
+              "RelativeToolTip": "source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T09:15:14.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Position.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.h",
-              "RelativeDocumentMoniker": "Position.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.h",
-              "RelativeToolTip": "Position.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-28T10:01:14.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Antidote.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Antidote.cpp",
               "RelativeDocumentMoniker": "Antidote.cpp",
@@ -100,38 +127,11 @@
               "RelativeToolTip": "Antidote.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-28T09:35:31.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T09:35:31.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Item.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.cpp",
-              "RelativeDocumentMoniker": "Item.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.cpp",
-              "RelativeToolTip": "Item.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-28T09:35:31.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "source.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
-              "RelativeDocumentMoniker": "source.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
-              "RelativeToolTip": "source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-13T09:15:14.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\stdafx.h",
               "RelativeDocumentMoniker": "stdafx.h",
@@ -139,77 +139,11 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-26T10:30:33.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T10:30:33.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Polaroid.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.cpp",
-              "RelativeDocumentMoniker": "Polaroid.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.cpp",
-              "RelativeToolTip": "Polaroid.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-28T09:35:30.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Antidote.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Antidote.h",
-              "RelativeDocumentMoniker": "Antidote.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Antidote.h",
-              "RelativeToolTip": "Antidote.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-28T09:35:29.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Item.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.h",
-              "RelativeDocumentMoniker": "Item.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.h",
-              "RelativeToolTip": "Item.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-28T09:35:28.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Polaroid.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.h",
-              "RelativeDocumentMoniker": "Polaroid.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.h",
-              "RelativeToolTip": "Polaroid.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-28T09:35:28.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Class 6th (Abstract).cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
-              "RelativeDocumentMoniker": "..\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
-              "RelativeToolTip": "..\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-28T09:27:43.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 5th (Polymorphism)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 5th (Polymorphism)\\source.cpp",
@@ -221,7 +155,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.cpp",
+              "RelativeDocumentMoniker": "Item.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.cpp",
+              "RelativeToolTip": "Item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:35:31.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Polaroid.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.cpp",
+              "RelativeDocumentMoniker": "Polaroid.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.cpp",
+              "RelativeToolTip": "Polaroid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:35:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Antidote.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Antidote.h",
+              "RelativeDocumentMoniker": "Antidote.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Antidote.h",
+              "RelativeToolTip": "Antidote.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T09:35:29.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.h",
+              "RelativeDocumentMoniker": "Item.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.h",
+              "RelativeToolTip": "Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T09:35:28.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Polaroid.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.h",
+              "RelativeDocumentMoniker": "Polaroid.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.h",
+              "RelativeToolTip": "Polaroid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T09:35:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class 6th (Abstract).cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
+              "RelativeDocumentMoniker": "..\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
+              "RelativeToolTip": "..\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:27:43.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 3th (Constructor \u0026 Destructor)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 3th (Constructor \u0026 Destructor)\\source.cpp",
@@ -233,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 4th\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 4th\\source.cpp",
