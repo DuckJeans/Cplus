@@ -7,12 +7,7 @@
       "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|solutionrelative:image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{68FCCE4D-5B8B-4C9F-BBB4-2E1FD49C98EE}|..\\Class 9th (Smart Pointer)\\Class 9th (Smart Pointer).vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Class 9th (Smart Pointer)\\Class 9th (Smart Pointer).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21816757-23B8-4F76-8F55-36C8AA81EF93}|Project.vcxproj|C:\\Users\\User\\Desktop\\Cplus\\Project\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -72,45 +67,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Image.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Image.cpp",
-              "RelativeDocumentMoniker": "Image.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Image.cpp",
-              "RelativeToolTip": "Image.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Class 9th (Smart Pointer).cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 9th (Smart Pointer)\\Class 9th (Smart Pointer).cpp",
+              "RelativeDocumentMoniker": "..\\Class 9th (Smart Pointer)\\Class 9th (Smart Pointer).cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Class 9th (Smart Pointer)\\Class 9th (Smart Pointer).cpp",
+              "RelativeToolTip": "..\\Class 9th (Smart Pointer)\\Class 9th (Smart Pointer).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T10:28:00.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Image.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Image.h",
-              "RelativeDocumentMoniker": "Image.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Image.h",
-              "RelativeToolTip": "Image.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-01T10:27:39.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class 8th (Template).cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 8th (Template)\\Class 8th (Template).cpp",
-              "RelativeDocumentMoniker": "..\\Class 8th (Template)\\Class 8th (Template).cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Class 8th (Template)\\Class 8th (Template).cpp",
-              "RelativeToolTip": "..\\Class 8th (Template)\\Class 8th (Template).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T10:02:44.235Z",
+              "WhenOpened": "2026-06-02T10:36:08.274Z",
               "EditorCaption": ""
             },
             {
@@ -121,7 +90,7 @@
               "RelativeDocumentMoniker": "source.cpp",
               "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
               "RelativeToolTip": "source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-13T09:15:14.294Z",
               "EditorCaption": ""
@@ -129,6 +98,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Class 8th (Template).cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 8th (Template)\\Class 8th (Template).cpp",
+              "RelativeDocumentMoniker": "..\\Class 8th (Template)\\Class 8th (Template).cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Class 8th (Template)\\Class 8th (Template).cpp",
+              "RelativeToolTip": "..\\Class 8th (Template)\\Class 8th (Template).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-01T10:02:44.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\stdafx.h",
               "RelativeDocumentMoniker": "stdafx.h",
@@ -136,12 +117,11 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-26T10:30:33.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T10:30:33.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Position.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Position.cpp",
               "RelativeDocumentMoniker": "Position.cpp",
@@ -153,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Class7th (Encapsulation).cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class7th (Encapsulation)\\Class7th (Encapsulation).cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Class7th (Encapsulation).cpp",
@@ -165,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Antidote.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Antidote.cpp",
               "RelativeDocumentMoniker": "Antidote.cpp",
@@ -177,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 5th (Polymorphism)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 5th (Polymorphism)\\source.cpp",
@@ -189,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Item.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.cpp",
               "RelativeDocumentMoniker": "Item.cpp",
@@ -201,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Polaroid.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.cpp",
               "RelativeDocumentMoniker": "Polaroid.cpp",
@@ -213,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Antidote.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Antidote.h",
               "RelativeDocumentMoniker": "Antidote.h",
@@ -225,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Item.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Item.h",
               "RelativeDocumentMoniker": "Item.h",
@@ -237,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Polaroid.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\Polaroid.h",
               "RelativeDocumentMoniker": "Polaroid.h",
@@ -249,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Class 6th (Abstract).cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
               "RelativeDocumentMoniker": "..\\Class 6th (Abstract)\\Class 6th (Abstract).cpp",
@@ -261,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 3th (Constructor \u0026 Destructor)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 3th (Constructor \u0026 Destructor)\\source.cpp",
@@ -273,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Class 4th\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class 4th\\source.cpp",
