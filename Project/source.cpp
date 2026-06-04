@@ -1,62 +1,56 @@
 #include "stdafx.h"
-#include <vector>
-#include <list>
+#include <stack>
+#include <queue>
 
 int main()
 {
-#pragma region 선형 컨테이너
-	// 데이터를 선형으로 저장하며, 특별한 제약이나
-	// 규칙이 없는 컨테이너입니다.
+#pragma region 컨테이너 어댑터
+	// 기존 컨테이너의 인터페이스를 제한하여 만든 기능이
+	// 제한되거나 변경된 컨테이너입니다.
 
-#pragma region vector container
-
-	// vector<int> vector;
+#pragma region stack container
+	
+	// stack<int> s;
 	// 
-	// vector.push_back(10);
+	// s.push(10);
+	// s.push(20);
+	// s.push(30);
+	// s.push(40);
+	// s.push(50);
+	// s.push(60);
 	// 
-	// vector.push_back(20);
-	// 
-	// vector.push_back(30);
-	// 
-	// vector.push_back(40);
-	// 
-	// vector.push_back(50);
-	// 
-	// vector.pop_back();
-	// 
-	// for (int i = 0; i < vector.size(); i++)
+	// while (!s.empty())
 	// {
-	// 	cout << vector[i] << endl;
+	// 	cout << s.top() << endl;
+	// 	s.pop();
 	// }
+
+#pragma endregion
+
+#pragma region queue container
+
+	// queue<int> q;
 	// 
-	// vector.clear();
+	// q.push(10);
+	// q.push(20);
+	// q.push(30);
+	// q.push(40);
+	// q.push(50);
 	// 
-	// cout << "vector size : " << vector.size() << endl;
-	// cout << "vector capacity : " << vector.capacity() << endl;
-
+	// const int & oq = q.size();
+	// 
+	// for (int i = 0; i < oq; i++)
+	// {
+	// 	cout << q.front() << endl;
+	// 	q.pop();
+	// }
 
 #pragma endregion
-
-#pragma region list container
-
-	list<int> list;
-
-	list.push_back(20);
-	list.push_back(30);
-	list.push_front(10);
-
-	list.pop_front();
-
-	list.push_front(1);
-
-	list.remove(20);
 
 
 
 #pragma endregion
 
-
-#pragma endregion
 
 
 	return 0;
