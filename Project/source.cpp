@@ -1,56 +1,36 @@
 #include "stdafx.h"
-#include <stack>
-#include <queue>
+#include <set>
 
 int main()
 {
-#pragma region 컨테이너 어댑터
-	// 기존 컨테이너의 인터페이스를 제한하여 만든 기능이
-	// 제한되거나 변경된 컨테이너입니다.
+#pragma region 연관 컨테이너
+	// 특정한 방식으로 데이터를 저장하고 검색하는 컨테이너입니다.
 
-#pragma region stack container
-	
-	// stack<int> s;
+#pragma region set
+
+	// set<const char*> set;
 	// 
-	// s.push(10);
-	// s.push(20);
-	// s.push(30);
-	// s.push(40);
-	// s.push(50);
-	// s.push(60);
+	// set.insert("League Of Legend");
+	// set.insert("A Dance Of Fire And Ice");
+	// set.insert("OverWatch");
+	// set.insert("Valorant");
 	// 
-	// while (!s.empty())
+	// for (const auto & game : set)
 	// {
-	// 	cout << s.top() << endl;
-	// 	s.pop();
+	// 	cout << game << endl;
 	// }
-
-#pragma endregion
-
-#pragma region queue container
-
-	// queue<int> q;
 	// 
-	// q.push(10);
-	// q.push(20);
-	// q.push(30);
-	// q.push(40);
-	// q.push(50);
+	// cout << "set empty : " << set.empty() << endl;
 	// 
-	// const int & oq = q.size();
+	// set.clear();
 	// 
-	// for (int i = 0; i < oq; i++)
-	// {
-	// 	cout << q.front() << endl;
-	// 	q.pop();
-	// }
+	// cout << "set size : " << set.size() << endl;
+	// cout << "set max size : " << set.max_size() << endl;
 
 #pragma endregion
 
 
-
 #pragma endregion
-
 
 
 	return 0;
