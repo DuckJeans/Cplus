@@ -89,8 +89,7 @@
               "RelativeToolTip": "Platinum.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-05T09:41:13.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T09:41:13.111Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "..\\Class 11th (container Adapter)\\Class 11th (container Adapter).cpp",
               "ViewState": "AgIAACgAAAAAAAAAAAAAwEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-05T09:38:35.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T09:38:35.041Z"
             },
             {
               "$type": "Document",
@@ -111,9 +109,9 @@
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
               "RelativeDocumentMoniker": "source.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp",
-              "RelativeToolTip": "source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cplus\\Project\\source.cpp*",
+              "RelativeToolTip": "source.cpp*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-13T09:15:14.294Z",
               "EditorCaption": ""
